@@ -1,0 +1,6 @@
+html[lang="ar"] .navbar .navbar-nav  {
+    margin-right: auto;
+ }
+html[lang="ar"] .navbar .navbar-collapse  {
+        flex-grow: 0;
+}

@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f5f8fa;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1 , h2 , h3 { 
+  color: #1e3948 !important;
+}
+/* navbar */
+.navbar {
+  color: white;
+  background-color: #14a1d0;
+}
+.navbar a {
+  color: white;
+  margin: 0px 0.5rem;
+}
+.navbar ul {
+  align-items: center;
+}
+/* /////////////////////////////////////////////////// */
+
+/* page Notfound */
+
+.page-not-found {
+  height: calc(100vh - 60.2px);
+
+}
+
+/**  login  */
+
+.forgetpasswordlink {
+  text-decoration: none;
+  transition: 0.5s;
+}
+
+.forgetpasswordlink:hover {
+  color:  #14a1d0 !important;
+}
+
+/* verify_email  */
+.verify_email {
+  height: 100vh;
+}
+/* .verify_email img {
+   width: 200px;
+   height: 200px;
+} */
+
+.side-bar .content{
+  min-height: 300px;
+}
+
+.side-bar img {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+}
+
+.side-bar img.avatar {
+    width: 80px;
+    height: 80px;
+}
+.side-bar a {
+  text-decoration: none;
+    color: #0CC8C9;
+    display: block;
+    margin: 15px auto;
+}
+.side-bar a:nth-of-type(2) {
+  width: fit-content;
+}
+.profile .box-message {
+  border: 2px solid #12bab3ba;
+}
+
+
+
+/* message */
+
+.message div:last-child {
+  margin-bottom: 6rem !important;
+}
+
+/* footer */
+
+.footer-container {
+  /* background-color: #14a1d0; */
+  background-color:    #1e3948 !important;
+ 
+}
+
+.footer-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-text {
+  margin: 5px;
+}
+
+.footer-text:first-child::after {
+  content: " • ";
+}
+
+

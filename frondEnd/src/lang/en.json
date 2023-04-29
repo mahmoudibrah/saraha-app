@@ -1,0 +1,53 @@
+
+
+{
+    "welcome": "Welcome to my website!",
+    "Saraha" : "Saraha",
+    "SignUp" : "Sign up",
+    "SignIn" : "Sign in",
+    "Email" : "Email",
+    "Password"  : "Password",
+    "Login" : "Login",
+    "ForgetPassword" : "Forgot Password ?",
+    "Loading" :  "Loading",
+    "Register"  : "Register",
+    "LastName" : "LastName",
+    "FirstName" : "FirstName",
+    "RestorePassword" : "Restore Password",
+    "EnterYourEmail" : "Enter your email to change password",
+    "Send" : "Send",
+    "SentToAnEmail" : "The code has been sent to an email",
+    "AccountSetting" : "Account Setting",
+    "MyMessages" : "My Messages" ,
+    "Logout" : "Logout" ,
+    "Message" : "Message",
+    "DeleteAccount" : "Delete Account",
+    "YouWillLoseAllContent" : "You will lose all content and data on this account, such as incoming messages and photos",
+    "ChangePassword" : "Change password",
+    "CurrentPassword" : "Current Password",
+    "NewPassword" : "New Password",
+    "NewPasswordConfirmation" : "New Password Confirmation",
+    "Change" : "Change",
+    "AreYouSureDeletedAcount" : "Are you sure deleted Acount",
+
+    "YouWontBe" : "You won't be able to revert this",
+    "YesDeleteIt!" : "Yes, delete it!",
+    "SendThisLinkToAny" : "Send this link to any of your friends",
+    "ShareProfile" : "Share Profile",
+    "Close" : "Close",
+    "MessageSentTo" : "Message sent to",
+    "ThereAreNoMessages"  :"There are no messages",
+    "ChangeImage" : "Change Image",
+    "UpdateImage" :  "Update Image",
+    "RemoveImage" : "Remove Image",
+    "EmailVerifySuccess" : "Email verify success",
+    "EmailVerifyFailed" : "Email verify failed"
+}
+
+
+
+
+
+
+
+
